@@ -3,6 +3,7 @@ import {View, StyleSheet} from 'react-native';
 import {NavigationContainer} from "@react-navigation/native";
 import RootNavigation from "./src/navigation/root";
 
+// Не смог сделать хороший вид из-за того, что зарядного устройства не было и хотел быстро сделать и скинуть
 const App = () => {
     return (
         <NavigationContainer>
